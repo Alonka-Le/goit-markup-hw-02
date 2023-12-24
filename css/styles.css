@@ -81,7 +81,8 @@ ul {
 .hero-button:focus {
   background-color: #404bbf;
 }
-.about-us {
+.about-us-name {
+  color: #2e2f42;
 }
 .abou-us-main {
   background-color: #ffffff;
@@ -118,6 +119,7 @@ ul {
 .team-img {
 }
 .team-name {
+  color: #2e2f42;
   text-align: center;
   font-size: 20px;
   font-weight: 500;
@@ -165,9 +167,13 @@ ul {
 .footer {
   background: var(--NAVY-BLUE, #2e2f42);
 }
+
 .footer-text {
   color: var(--CLOUD, #f4f4fd);
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+}
+.logo-color-footer {
+  color: #f4f4fd;
 }
